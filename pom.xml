@@ -21,9 +21,11 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
-				<version>2.1.1</version>
+				<version>3.3.2</version> <!-- Mise à jour de la version -->
 			</plugin>
 		</plugins>
 	</build>
+
+</project>
 
 </project>
